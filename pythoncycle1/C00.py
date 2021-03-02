@@ -1,0 +1,25 @@
+#program to demonstrate basic dataype in python
+#int
+a=10
+print(a)
+print(type(a))
+#float
+a=20.5
+print(a)
+print(type(a))
+#complex
+a=2j
+print(a)
+print(type(a))
+#string
+a="worldwilde.com"
+print(a)
+print(type(a))
+#list
+a=["one","two","three"]
+print(a)
+print(type(a))
+#tuple
+a=("one","worldwilde.com")
+print(a)
+print(type(a))
